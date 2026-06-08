@@ -1,0 +1,6 @@
+{
+  "name": "Vulnerability & Alert Tracker",
+  "description": "Tracks records of cybersecurity vulnerabilities and provides real-time alerts for system administrators with automated Gemini remediation insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
